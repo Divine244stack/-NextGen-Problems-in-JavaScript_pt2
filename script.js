@@ -34,7 +34,7 @@ function calculate() {
     const a = Number(document.getElementById("num1").value);
     const b = Number(document.getElementById("num2").value);
     const operator = document.getElementById("operator").value;
-    const result = document.getElementById("gradeResult");
+    const result = document.getElementById("calcResult");
 
     let answer;
 
